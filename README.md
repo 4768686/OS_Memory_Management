@@ -1,7 +1,7 @@
 # OS_Memory_Management
 内存管理模拟系统
 1. 技术栈  
-•	语言：Python 3.8.1（我也忘了是3.几）
+•	语言：Python 3.8.1（我也忘了是3.几）  
 •	图形界面库：PyQt5  
 •	实现算法：动态分区：首次适应算法和最佳适应算法  
   请求分区：FIFO算法和LRU算法  
@@ -17,7 +17,7 @@
 用户可以在“分配算法”栏里切换不同算法，在“控制”框内进行操作，首先进行指令序列生成，生成指令及其访问地址并显示指令序列。可以选择“单步执行”或是“自动运行”进行页面置换。“执行状态”栏显示指令、访问地址 、页号 、偏移 、是否命中或是缺页以及物理地址等。“结果”栏显示使用的算法类型，总指令数，缺页次数以及缺页率。  
 附件  
 1.	动态分区分配演示
-   ![内存管理模拟系统 2025-05-28 19-10-35](https://github.com/user-attachments/assets/84bd05ad-fea2-4890-b05e-52b02c43ff12)
+   ![内存管理模拟系统 2025-05-28 19-10-35](https://github.com/user-attachments/assets/84bd05ad-fea2-4890-b05e-52b02c43ff12)  
 2.	请求分区分配演示  
-![内存管理模拟系统 2025-05-28 19-10-15](https://github.com/user-attachments/assets/83fdf568-5e11-45ff-82cc-a965f9264659)
-![内存管理模拟系统 2025-05-28 19-09-46](https://github.com/user-attachments/assets/3df3208a-ca23-4e1b-b534-7ceae2bf554d)
+![内存管理模拟系统 2025-05-28 19-10-15](https://github.com/user-attachments/assets/83fdf568-5e11-45ff-82cc-a965f9264659)  
+![内存管理模拟系统 2025-05-28 19-09-46](https://github.com/user-attachments/assets/3df3208a-ca23-4e1b-b534-7ceae2bf554d)  
